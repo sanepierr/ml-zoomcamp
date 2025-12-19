@@ -1,2 +1,2 @@
 # ml-zoomcamp
-Machine Learning zoomcamp
+machine-learning-zoomcamp-homework
